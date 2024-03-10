@@ -2,16 +2,26 @@
 
 var sw = Stopwatch.StartNew();
 
-const string path = "./Weather.txt";
+if (args.Length == 0)
+{
+    Console.WriteLine("No file path provided!");
+    return;
+}
+else if (args.Length > 1)
+{
+    Console.WriteLine("Too many arguments! Provide only one file path.");
+    return;
+}
 
-Console.WriteLine($"Current directory: {Directory.GetCurrentDirectory()}");
+var path = args[0];
+
 Console.WriteLine("Checking if file exists...:");
 
 var fileExists = File.Exists(path);
 
 if (!fileExists)
 {
-    Console.WriteLine($"File not found!");
+    Console.WriteLine($"File does not exist: {path}");
     return;
 }
 
