@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/samwagner/Developer/Projects/sam-1brc/src/src.csproj",
-      "projectName": "src",
-      "projectPath": "/Users/samwagner/Developer/Projects/sam-1brc/src/src.csproj",
+      "projectUniqueName": "/Users/samwagner/Developer/Projects/sam-1brc/src/sam-1brc.csproj",
+      "projectName": "sam-1brc",
+      "projectPath": "/Users/samwagner/Developer/Projects/sam-1brc/src/sam-1brc.csproj",
       "packagesPath": "/Users/samwagner/.nuget/packages/",
       "outputPath": "/Users/samwagner/Developer/Projects/sam-1brc/src/obj/",
       "projectStyle": "PackageReference",

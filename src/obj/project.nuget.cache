@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1IYrEiDyaIZosdmAUJ+rn+w4P1DnXmlC52RgH4RcCrsbitU5aYJvOs31uJXMMzQrxghHdYIJ3m2r+AXEtcU15Q==",
+  "dgSpecHash": "1Lf+3/IZNfky7kKbwY6mHw0VMmVkrXlJj4M8a4Z6l4zKgkS0jeMfV9Xdwd0IdMLZAkJMOXvpmyZfMZCPPZl6Lg==",
   "success": true,
-  "projectFilePath": "/Users/samwagner/Developer/Projects/sam-1brc/src/src.csproj",
+  "projectFilePath": "/Users/samwagner/Developer/Projects/sam-1brc/src/sam-1brc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
